@@ -29,5 +29,5 @@ Uninstallation
 --------------
 Remove `~/Library/ColorPickers/Innocent.colorPicker`
 
-[InnocentColorPicker]:https://github.com/WarWithinMe/InnocentColorPicker/raw/master/Innocent1.0.zip
+[InnocentColorPicker]:https://github.com/WarWithinMe/InnocentColorPicker/raw/master/Innocent1.1.zip
 
