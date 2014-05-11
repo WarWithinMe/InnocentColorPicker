@@ -7,6 +7,10 @@ InnocentColorPicker
 
 Version
 ----
+1.1
+    1. Fix a bug that will crash the application.
+    2. Fix layout issue when there's a "choose" button in the color picker
+
 1.0 ( Tested in __10.9.2__, should support __10.8__ though )
 
 Notice
